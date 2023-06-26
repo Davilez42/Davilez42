@@ -4,7 +4,8 @@
 
 
 # Skills
-##Front
+## Front
+<br>
 [![GitHub Streak](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=orange&labelColor=5f6368)](https://git.io/streak-stats) 
 [![GitHub Streak](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=blue&labelColor=5f6368)](https://git.io/streak-stats) 
 [![GitHub Streak](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=5f6368)](https://git.io/streak-stats) 
