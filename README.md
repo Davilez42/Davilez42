@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Suarez</h1>
 <h3 align="center">I am a backend developer and a very passionate about technology and programming, ⚡</h3>
 
-- 📫 How to reach me **josedavid4227@gmail.com**
-
 <p align="left">
 </p>
 
